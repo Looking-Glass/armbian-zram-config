@@ -1,4 +1,3 @@
-# cat armbian-zram-config 
 #!/bin/sh
 #
 # Copyright (c) Authors: https://www.armbian.com/authors
